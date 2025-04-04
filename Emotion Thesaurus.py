@@ -2,7 +2,6 @@
 """
 Created on Mon Mar 24 22:56:00 2025
 
-@author: Ric Chapin
 """
 my_dictionary = {'acceptance' :'''
                  
@@ -8638,7 +8637,6 @@ Worry
 Worthlessness
 
          '''}
-
 
 ET = '''
  ______                __                       
